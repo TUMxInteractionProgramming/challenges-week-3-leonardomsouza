@@ -152,6 +152,7 @@ li img {
     position: absolute;
     left: 0;
     width: 40%;
+    height: 100%;
 }
 
 #chat{
